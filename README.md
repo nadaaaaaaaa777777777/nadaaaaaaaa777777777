@@ -9,13 +9,17 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3>Connectez-vous avec moi :</h3>
-<a href="https://www.linkedin.com/in/ben-khaled-nada-8609b2258/" target="_blank" style="display: inline-block; padding: 12px 30px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; font-family: Arial, sans-serif; margin-right: 10px;">
-  <i class="fab fa-linkedin" style="margin-right: 8px;"></i>LinkedIn
-</a>
-
-<a href="https://www.instagram.com/khalednadaben/" target="_blank" style="display: inline-block; padding: 12px 30px; background-color: #E4405F; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; font-family: Arial, sans-serif; margin-top: 10px;">
-  <i class="fab fa-instagram" style="margin-right: 8px;"></i>Instagram
-</a>
+<div align="center"> 
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ben-khaled-nada-8609b2258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https:"https://github.com/nadaaaaaaaa777777777" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 
 
