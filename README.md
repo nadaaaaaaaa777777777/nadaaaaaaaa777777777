@@ -9,13 +9,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3>Connectez-vous avec moi :</h3>
-<a href="https://www.linkedin.com/in/ben-khaled-nada-8609b2258/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; font-family: Arial, sans-serif;">
+<a href="https://www.linkedin.com/in/ben-khaled-nada-8609b2258/" target="_blank" style="display: inline-block; padding: 12px 30px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; font-family: Arial, sans-serif; margin-right: 10px;">
   <i class="fab fa-linkedin" style="margin-right: 8px;"></i>LinkedIn
 </a>
 
-<a href="https://www.instagram.com/khalednadaben/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #E4405F; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; font-family: Arial, sans-serif; margin-top: 10px;">
+<a href="https://www.instagram.com/khalednadaben/" target="_blank" style="display: inline-block; padding: 12px 30px; background-color: #E4405F; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; font-family: Arial, sans-serif; margin-top: 10px;">
   <i class="fab fa-instagram" style="margin-right: 8px;"></i>Instagram
 </a>
+
 
 
 <br/>
